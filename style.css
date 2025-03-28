@@ -1,0 +1,22 @@
+body { 
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-image: url(esta2.avif); 
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.8); /* Fundo preto com transparência */
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px; 
+    border-radius: 20px;
+}
+
+h1, h2 {
+    color: rgba(0, 255, 0, 1); 
+}
