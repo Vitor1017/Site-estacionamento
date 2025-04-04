@@ -30,8 +30,7 @@ GitHub Pages (Hospedagem gratuita)
 ✔️ Imagem de fundo atmosférica
 
 
-📸 Preview
-Preview do Site 
+📸 Preview do Site 
 
 ![Captura de Tela (84)](https://github.com/user-attachments/assets/82b1c249-a90e-4940-9e64-6b4300ae4769)
 
